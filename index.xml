@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oleg Stotsky</title>
+    <link>olegstotsky.github.io/</link>
+    <description>Recent content on Oleg Stotsky</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Sat, 02 May 2020 21:34:52 +0300</lastBuildDate>
+    
+	<atom:link href="olegstotsky.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>olegstotsky.github.io/posts/first-post/</link>
+      <pubDate>Sat, 02 May 2020 21:34:52 +0300</pubDate>
+      
+      <guid>olegstotsky.github.io/posts/first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>olegstotsky.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>olegstotsky.github.io/about/</guid>
+      <description>I am Oleg Stotsky, Software</description>
+    </item>
+    
+  </channel>
+</rss>
